@@ -13,7 +13,7 @@ abstract public class TriggerCondition : MonoBehaviour {
 		
 	}
 
-    bool TestConditio
+    //bool TestConditio
 }
 
 public class HitTestCondition : TriggerCondition
